@@ -1,7 +1,7 @@
 {
   "name": "delz/phalcon-demo",
   "description": "Phalcon 项目脚手架",
-  "type": "library",
+  "type": "project",
   "license": "MIT",
   "authors": [
     {
