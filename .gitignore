@@ -5,3 +5,5 @@ Desktop.ini
 .project
 /composer.lock
 /vendor/
+/resource/cache/*
+!/resource/cache/.gitkeep
