@@ -25,4 +25,4 @@ class HttpKernel extends BaseHttpKernel
 
 $kernel = new HttpKernel('prod', false);
 
-$kernel->handle()->send();
+$kernel->boot();

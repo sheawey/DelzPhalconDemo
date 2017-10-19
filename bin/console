@@ -22,6 +22,6 @@ class ConsoleKernel extends BaseConsoleKernel
 
 }
 
-$kernel = new ConsoleKernel('prod', false);
+$kernel = new ConsoleKernel(false);
 
-$kernel->handle();
+$kernel->boot();
